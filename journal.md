@@ -1,8 +1,9 @@
 #Authors
 Josie Thomas
+John Smith
 
 #Title
-ITFC are shite
+ITFC are shite (or are they?)
 
 #Introduction
 Why are Ipswich shite? What history does the club have? Have they always 
